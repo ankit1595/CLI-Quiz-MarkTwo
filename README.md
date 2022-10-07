@@ -2,6 +2,7 @@
 
 
 Take this fun cricket quiz if you are a 90s kid.
+
 Made using Vanilla JavaScript on Replit.com.
 
 
